@@ -1,4 +1,4 @@
-# Português - BR
+ Português - BR
 # Desafio divisível por 3 ou por 5
   - Para executar o programa você deve copiar do GitHub
     * Abrir no Visual Studio Code
@@ -7,7 +7,7 @@
     * Executar o "dart .\desafio.dart"
 
 -----------------------------------------------------------------------------
-# English - EUA
+ English - EUA
 # challenge divisible by 3 or 5
   - To run the program you must copy from GitHub
      * Open Visual Studio Code
@@ -18,4 +18,4 @@
 
 Image Example
 
-<img src="github/result.jpg" width="400" height="140">
+<img src="github/result.png" width="400" height="140">
